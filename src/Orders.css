@@ -1,0 +1,10 @@
+.orders {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.orders__container {
+    font-size: 100px;
+    font-weight: 200;
+}

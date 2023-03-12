@@ -5,6 +5,7 @@ import Product from './Product';
 
 function Home() {
   return (
+    <>
     <div className='home'>
         <div className='home__container'>
             <img className='home__image' src='https://m.media-amazon.com/images/I/71AHUyOICAL._SX3000_.jpg' alt='' />
@@ -72,6 +73,7 @@ function Home() {
             </div>
         </div>    
     </div>
+    </>
   )
 }
 

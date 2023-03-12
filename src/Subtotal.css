@@ -1,3 +1,8 @@
 .subtotal {
     height: 150px;
 }
+
+.subtotal__proceed {
+    width: 90%;
+    height: 28px;
+}
